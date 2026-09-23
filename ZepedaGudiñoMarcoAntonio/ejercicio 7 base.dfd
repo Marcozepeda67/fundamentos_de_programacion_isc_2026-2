@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'ingrese el tiempo de respuesta en ms'
+5
+1
+1
+n
+8
+1
+1
+i
+1
+1
+1
+1
+1
+n
+1
+1
+1
+5
+1
+11
+tiempos (i)
+7
+0
+1
+17
+tiempos (i) <=200
+6
+1
+9
+cumpleSLA
+1
+0
+13
+6
+1
+9
+cumpleSLA
+1
+1
+4
+1
+40
+'Alerta sistema lento se ha violado SLA'
+13
+10
+4
+1
+28
+'¿cumpleSLA?: ', 'cumpleSLA'
+1
